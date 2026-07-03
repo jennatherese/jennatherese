@@ -1,16 +1,62 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Jenna%20Therese&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Research%20Aspirant&descAlignY=55&descSize=18" width="100%"/>
+<svg width="900" height="240" viewBox="0 0 900 240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgLight" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f7f3ff"/>
+      <stop offset="50%" stop-color="#eef2ff"/>
+      <stop offset="100%" stop-color="#f0faff"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7c5cff"/>
+      <stop offset="100%" stop-color="#4fb8ff"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#7c5cff" flood-opacity="0.15"/>
+    </filter>
+  </defs>
+  <rect width="900" height="240" rx="20" fill="url(#bgLight)"/>
+  <rect width="900" height="240" rx="20" fill="none" stroke="#e0d9f7" stroke-width="1.5"/>
+  <rect x="30" y="28" width="840" height="184" rx="14" fill="#ffffff" filter="url(#softShadow)">
+    <animate attributeName="opacity" values="0;1" dur="0.6s" fill="freeze"/>
+  </rect>
+  <rect x="30" y="28" width="840" height="6" rx="3" fill="url(#accent)"/>
+  <text x="56" y="60" font-family="Georgia, serif" font-size="11" letter-spacing="3" fill="#9b8fd4">RESEARCH · AI &amp; ML · FINAL YEAR</text>
+  <text x="56" y="100" font-family="Georgia, serif" font-size="34" font-weight="bold" fill="#231942">
+    Jenna Therese
+    <animate attributeName="opacity" values="0;1" dur="0.7s" begin="0.4s" fill="freeze"/>
+  </text>
+  <text x="56" y="128" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#4a4468">
+    <tspan>Building Generative AI &amp; Multi-Agent Systems for Healthcare</tspan>
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="1s" fill="freeze"/>
+  </text>
+  <g font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#4a3f8a">
+    <rect x="56" y="150" width="130" height="26" rx="13" fill="#f1ecff"/>
+    <text x="70" y="167">Generative AI</text>
+    <rect x="196" y="150" width="140" height="26" rx="13" fill="#e8f6ff"/>
+    <text x="210" y="167">Multi-Agent Systems</text>
+    <rect x="346" y="150" width="120" height="26" rx="13" fill="#eafff2"/>
+    <text x="360" y="167">Healthcare AI</text>
+    <rect x="476" y="150" width="130" height="26" rx="13" fill="#fff3ea"/>
+    <text x="490" y="167">IEEE Research</text>
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="1.5s" fill="freeze"/>
+  </g>
+  <text x="56" y="200" font-family="Georgia, serif" font-style="italic" font-size="12" fill="#a79bd9">
+    "designing intelligent systems, one paper at a time."
+    <animate attributeName="opacity" values="0;1" dur="0.8s" begin="2s" fill="freeze"/>
+  </text>
+  <path d="M 870 28 L 870 48 L 850 28 Z" fill="#eef0fb"/>
+</svg>
 
 <a href="https://www.linkedin.com/in/jenna-therese-x">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=764ABA&center=true&vCenter=true&width=600&lines=Final-Year+B.E.+CSE+(AI+%26+ML);Building+Generative+AI+%26+Multi-Agent+Systems;Healthcare+AI+%7C+Research+Aspirant" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&pause=1000&color=7C5CFF&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Final-Year+B.E.+CSE+(AI+%26+ML);Building+Generative+AI+%26+Multi-Agent+Systems;Healthcare+AI+%7C+Research+Aspirant" alt="Typing SVG" />
 </a>
 
 </div>
 
 ---
 
-### 🚀 About Me
+### 📄 Abstract
 
 - 🎓 Final-Year B.E. CSE (AI & ML) @ Sathyabama Institute of Science and Technology
 - 🤖 Building in Generative AI, Multi-Agent Systems & Healthcare AI
@@ -33,7 +79,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,pandas,numpy,nextjs,nodejs,mongodb,mysql,html,css,java&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,pandas,numpy,nextjs,nodejs,mongodb,mysql,html,css,java&theme=light" />
 
 </div>
 
@@ -109,17 +155,26 @@ Multi-agent incident response platform — Microsoft Build AI Hackathon
 
 ---
 
-### 📊 GitHub Activity
+### 🎮 Contribution Snake
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=jennatherese&theme=radical&hide_border=true" alt="GitHub Streak" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jennatherese&theme=react-dark&hide_border=true" width="49%"/>
+<img src="https://raw.githubusercontent.com/jennatherese/jennatherese/output/github-contribution-grid-snake.svg" width="100%"/>
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" width="100%"/>
+### 🧊 3D Contribution Calendar
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-south.svg" width="100%"/>
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f0f4ff,100:eef2ff&height=100&section=footer" width="100%"/>
 
 </div>
