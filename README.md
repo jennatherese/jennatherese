@@ -54,18 +54,38 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=jennatherese&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true"/>
     </td>
     <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=[your-github-username]&theme=blue_navy&hide_border=false"/>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=jennatherese&theme=blue_navy&hide_border=false"/>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennatherese&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
     </td>
   </tr>
 </table>
+
+---
+
+## 🏆 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jennatherese&theme=blue_navy&no-frame=false&no-bg=false&margin-w=4">
+</p>
+
+---
+
+## 🔝 Top Contributed Repos:
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=jennatherese&limit=5&theme=dark&combine_all_yearly_contributions=true">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=jennatherese&icon=0&color=12">
+</p>
 
 ---
 
