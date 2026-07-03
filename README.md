@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/jenna-therese-x"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
   <a href="mailto:[your email]"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
-  <a href="[your github]"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"></a>
+  <a href="https://github.com/jennatherese"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"></a>
 </p>
 
 ---
@@ -54,7 +54,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=jennatherese&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=jennatherese&theme=blue_navy&hide_border=false"/>
     </td>
     <td>
       <img src="https://nirzak-streak-stats.vercel.app/?user=jennatherese&theme=blue_navy&hide_border=false"/>
@@ -62,7 +62,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennatherese&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennatherese&theme=blue_navy&hide_border=false&layout=compact"/>
     </td>
   </tr>
 </table>
@@ -78,31 +78,11 @@
 
 ## 🔝 Top Contributed Repos:
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=jennatherese&limit=5&theme=dark&combine_all_yearly_contributions=true">
+  <img src="https://github-contributor-stats.vercel.app/api?username=jennatherese&limit=5&theme=dark">
 </p>
 
 ---
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=jennatherese&icon=0&color=12">
-</p>
-
----
-
-## 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[your-github-username]&theme=blue_navy&no-frame=false&no-bg=false&margin-w=4">
-</p>
-
----
-
-## 🔝 Top Contributed Repos:
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=[your-github-username]&limit=5&theme=dark&combine_all_yearly_contributions=true">
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=[your-github-username]&icon=0&color=12">
 </p>
