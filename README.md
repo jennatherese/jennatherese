@@ -1,88 +1,125 @@
-# 💫 About Me:
-👋 Hi, I'm @JennaThereseX<br>🎓 Final-Year B.E. CSE (AI & ML) @ Sathyabama Institute of Science and Technology<br>🤖 Building in Generative AI, Multi-Agent Systems & Healthcare AI<br>🧪 Currently working on DermaCare AI, MedBot & Hospital Ops Safety Assistant<br>📝 Published/preparing IEEE papers on bearing fault detection & multi-agent systems<br>🏆 Team Lead — Smart India Hackathon Internal Round, Top 30<br>💡 Open to collaborations on Healthcare AI/ML & Agentic Workflows<br>📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/jenna-therese-x)
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Jenna%20Therese&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Research%20Aspirant&descAlignY=55&descSize=18" width="100%"/>
+
+<a href="https://www.linkedin.com/in/jenna-therese-x">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=764ABA&center=true&vCenter=true&width=600&lines=Final-Year+B.E.+CSE+(AI+%26+ML);Building+Generative+AI+%26+Multi-Agent+Systems;Healthcare+AI+%7C+Research+Aspirant" alt="Typing SVG" />
+</a>
+
+</div>
 
 ---
 
-## 🌐 Connect with Me:
-<p align="center">
-  <a href="https://www.linkedin.com/in/jenna-therese-x"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:[your email]"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/jennatherese"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"></a>
-</p>
+### 🚀 About Me
+
+- 🎓 Final-Year B.E. CSE (AI & ML) @ Sathyabama Institute of Science and Technology
+- 🤖 Building in Generative AI, Multi-Agent Systems & Healthcare AI
+- 🧪 Currently working on **DermaCare AI**, **MedBot** & **Hospital Ops Safety Assistant**
+- 📝 Published/preparing IEEE papers on bearing fault detection & multi-agent systems
+- 🏆 Team Lead — Smart India Hackathon Internal Round, Top 30
+- 💡 Open to collaborations on Healthcare AI/ML & Agentic Workflows
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jenna-therese-x)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[your email])
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jennatherese)
+
+</div>
 
 ---
 
-## 🚀 Featured Projects:
-- 🩺 **DermaCare AI** — Skin disease detection using deep learning & explainability layers
-- 💬 **MedBot** — Clinical decision support system
-- 🏥 **Hospital Operations & Safety Assistant** — RAG-based forecasting & monitoring
-- 🕸️ **DrugReax** — Graph ML for drug interaction prediction
-- 🤝 **MissionControl** — 5-agent LangGraph post-meeting workflow automation (built for SIH 2025)
-- ⚙️ **Bearing Fault Detection** — ML classifier comparison on stator current signals (IEEE format)
-- 🌍 **Crime Before Crime** — Environmental crime risk prediction for Madurai zones (24-hr hackathon build)
-- 🐝 **SwarmOps** — Multi-agent incident response platform (Microsoft Build AI Hackathon)
+### 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,pandas,numpy,nextjs,nodejs,mongodb,mysql,html,css,java&theme=dark" />
+
+</div>
 
 ---
 
-## 📝 Publications & Research:
-- IEEE-format paper: Bearing Fault Detection using ML Classifiers on Stator Current Signals
-- MissionControl: System Architecture, Multi-Agent vs Single-Agent Comparison, Cognitive Load Monitor (in progress — 3-paper series)
+### 🚀 Featured Projects
 
----
+<table>
+<tr>
+<td width="50%">
 
-## 💻 Tech Stack:
-<p align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-</p>
+**🩺 DermaCare AI**
+Skin disease detection using deep learning & explainability layers
 
----
+</td>
+<td width="50%">
 
-## 📊 GitHub Stats:
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=jennatherese&theme=blue_navy&hide_border=false"/>
-    </td>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=jennatherese&theme=blue_navy&hide_border=false"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennatherese&theme=blue_navy&hide_border=false&layout=compact"/>
-    </td>
-  </tr>
+**💬 MedBot**
+Clinical decision support system
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🏥 Hospital Ops & Safety Assistant**
+RAG-based forecasting & monitoring
+
+</td>
+<td width="50%">
+
+**🕸️ DrugReax**
+Graph ML for drug interaction prediction
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🤝 MissionControl**
+5-agent LangGraph post-meeting automation — built for SIH 2025
+
+</td>
+<td width="50%">
+
+**⚙️ Bearing Fault Detection**
+ML classifier comparison on stator current signals (IEEE format)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🌍 Crime Before Crime**
+Environmental crime risk prediction for Madurai — 24-hr hackathon build
+
+</td>
+<td width="50%">
+
+**🐝 SwarmOps**
+Multi-agent incident response platform — Microsoft Build AI Hackathon
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jennatherese&theme=blue_navy&no-frame=false&no-bg=false&margin-w=4">
-</p>
+### 📝 Publications & Research
+
+- IEEE-format paper: *Bearing Fault Detection using ML Classifiers on Stator Current Signals*
+- MissionControl series (in progress): System Architecture · Multi-Agent vs Single-Agent Comparison · Cognitive Load Monitor
 
 ---
 
-## 🔝 Top Contributed Repos:
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=jennatherese&limit=5&theme=dark">
-</p>
+### 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=jennatherese&theme=radical&hide_border=true" alt="GitHub Streak" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jennatherese&theme=react-dark&hide_border=true" width="49%"/>
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=jennatherese&icon=0&color=12">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" width="100%"/>
+
+</div>
