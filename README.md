@@ -1,22 +1,16 @@
 <div align="center">
 
-# Jenna Therese
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Jenna%20Therese&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Research%20Aspirant&descAlignY=55&descSize=18" width="100%"/>
 
-### Building Generative AI & Multi-Agent Systems for Healthcare
-
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&pause=1000&color=7C5CFF&center=true&vCenter=true&width=600&lines=Final-Year+B.E.+CSE+(AI+%26+ML);Research+Aspirant+%7C+IEEE+Author;Generative+AI+%C2%B7+Multi-Agent+Systems+%C2%B7+Healthcare+AI" alt="Typing SVG"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/RESEARCH-AI%20%26%20ML-f1ecff?style=for-the-badge&labelColor=231942&color=7c5cff"/>
-<img src="https://img.shields.io/badge/STATUS-Final%20Year-e8f6ff?style=for-the-badge&labelColor=231942&color=4fb8ff"/>
-<img src="https://img.shields.io/badge/FOCUS-Healthcare%20AI-eafff2?style=for-the-badge&labelColor=231942&color=27c93f"/>
+<a href="https://www.linkedin.com/in/jenna-therese-x">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=764ABA&center=true&vCenter=true&width=600&lines=Final-Year+B.E.+CSE+(AI+%26+ML);Building+Generative+AI+%26+Multi-Agent+Systems;Healthcare+AI+%7C+Research+Aspirant" alt="Typing SVG" />
+</a>
 
 </div>
 
 ---
 
-### 📄 Abstract
+### 🚀 About Me
 
 - 🎓 Final-Year B.E. CSE (AI & ML) @ Sathyabama Institute of Science and Technology
 - 🤖 Building in Generative AI, Multi-Agent Systems & Healthcare AI
@@ -28,57 +22,10 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jenna-therese-x)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[your email])
 [![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jennatherese)
 
 </div>
-
----
-
-### 🧬 Research Focus
-
-<table align="center">
-<tr>
-<td align="center" width="200">
-
-**🧠 Generative AI**
-LLM pipelines, RAG, Agentic workflows
-
-</td>
-<td align="center" width="200">
-
-**🤝 Multi-Agent Systems**
-LangGraph orchestration, escalation logic
-
-</td>
-<td align="center" width="200">
-
-**🩺 Healthcare AI**
-Diagnostics, clinical decision support
-
-</td>
-</tr>
-<tr>
-<td align="center" width="200">
-
-**📊 Predictive Analytics**
-Fault detection, risk modeling
-
-</td>
-<td align="center" width="200">
-
-**📝 IEEE Research**
-Peer-reviewed publishing pipeline
-
-</td>
-<td align="center" width="200">
-
-**⚡ Full-Stack**
-Next.js, Node, MongoDB, MySQL
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -86,7 +33,7 @@ Next.js, Node, MongoDB, MySQL
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,pandas,numpy,nextjs,nodejs,mongodb,mysql,html,css,java&theme=light"/>
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,pandas,numpy,nextjs,nodejs,mongodb,mysql,html,css,java&theme=dark" />
 
 </div>
 
@@ -162,12 +109,17 @@ Multi-agent incident response platform — Microsoft Build AI Hackathon
 
 ---
 
-### 🎮 Contribution Snake
+### 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/jennatherese/jennatherese/output/github-contribution-grid-snake.svg" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=jennatherese&theme=radical&hide_border=true" alt="GitHub Streak" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jennatherese&theme=react-dark&hide_border=true" width="49%"/>
 
 </div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" width="100%"/>
 
 </div>
