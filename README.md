@@ -104,7 +104,7 @@ Multi-agent incident response platform — Microsoft Build AI Hackathon
 
 ### 📝 Publications & Research
 
-- IEEE-format paper: *Bearing Fault Detection using ML Classifiers on Stator Current Signals*
+- IEEE-format paper  (in progress): *Bearing Fault Detection using ML Classifiers on Stator Current Signals*
 - MissionControl series (in progress): System Architecture · Multi-Agent vs Single-Agent Comparison · Cognitive Load Monitor
 
 ---
