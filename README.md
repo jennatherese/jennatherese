@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7f3ff,50:eef2ff,100:f0faff&height=180&section=header&text=Jenna%20Therese&fontSize=42&fontColor=231942&fontAlignY=42&desc=Building%20Generative%20AI%20%26%20Multi-Agent%20Systems%20for%20Healthcare&descAlignY=62&descSize=15&descColor=4a4468&animation=fadeIn" width="100%"/>
+# Jenna Therese
+
+### Building Generative AI & Multi-Agent Systems for Healthcare
 
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&pause=1000&color=7C5CFF&center=true&vCenter=true&width=600&lines=Final-Year+B.E.+CSE+(AI+%26+ML);Research+Aspirant+%7C+IEEE+Author;Generative+AI+%C2%B7+Multi-Agent+Systems+%C2%B7+Healthcare+AI" alt="Typing SVG"/>
 
@@ -33,7 +35,7 @@
 
 ---
 
-### 🧬 Research Focus — Bento Grid
+### 🧬 Research Focus
 
 <table align="center">
 <tr>
@@ -167,9 +169,5 @@ Multi-agent incident response platform — Microsoft Build AI Hackathon
 <img src="https://raw.githubusercontent.com/jennatherese/jennatherese/output/github-contribution-grid-snake.svg" width="100%"/>
 
 </div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f0f4ff,100:eef2ff&height=100&section=footer" width="100%"/>
 
 </div>
