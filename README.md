@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:f7f3ff,50:eef2ff,100:f0faff&height=180&section=header&text=Jenna%20Therese&fontSize=42&fontColor=231942&fontAlignY=42&desc=Building%20Generative%20AI%20%26%20Multi-Agent%20Systems%20for%20Healthcare&descAlignY=62&descSize=15&descColor=4a4468&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7f3ff,50:eef2ff,100:f0faff&height=180&section=header&text=Jenna%20Therese&fontSize=42&fontColor=231942&fontAlignY=42&desc=Building%20Generative%20AI%20%26%20Multi-Agent%20Systems%20for%20Healthcare&descAlignY=62&descSize=15&descColor=4a4468&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&pause=1000&color=7C5CFF&center=true&vCenter=true&width=600&lines=Final-Year+B.E.+CSE+(AI+%26+ML);Research+Aspirant+%7C+IEEE+Author;Generative+AI+%C2%B7+Multi-Agent+Systems+%C2%B7+Healthcare+AI" alt="Typing SVG"/>
 
@@ -26,7 +26,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jenna-therese-x)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[your email])
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jennatherese)
 
 </div>
@@ -155,7 +155,7 @@ Multi-agent incident response platform — Microsoft Build AI Hackathon
 
 ### 📝 Publications & Research
 
-- IEEE-format paper (in progress): *Bearing Fault Detection using ML Classifiers on Stator Current Signals*
+- IEEE-format paper: *Bearing Fault Detection using ML Classifiers on Stator Current Signals*
 - MissionControl series (in progress): System Architecture · Multi-Agent vs Single-Agent Comparison · Cognitive Load Monitor
 
 ---
@@ -170,6 +170,6 @@ Multi-agent incident response platform — Microsoft Build AI Hackathon
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:f0f4ff,100:eef2ff&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f0f4ff,100:eef2ff&height=100&section=footer" width="100%"/>
 
 </div>
